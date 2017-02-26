@@ -4,6 +4,9 @@ state={
 	provinces={
 		13206 
 	}
-	manpower=0
+	history = {
+		add_core_of = AND
+		owner = AND
+	}
 	buildings_max_level_factor=1.000
 }
