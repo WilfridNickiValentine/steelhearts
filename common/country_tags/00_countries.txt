@@ -116,3 +116,4 @@ MAN = "countries/Manchukou.txt"
 
 DAN = "countries/Danzig.txt"
 SPA = "countries/Nationalist Spain.txt"
+AND = "countries/Andorra.txt"
