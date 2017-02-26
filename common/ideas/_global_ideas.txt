@@ -1,0 +1,45 @@
+ideas = {
+
+	country = {
+		league_of_nations_member = {
+			allowed = { always = no }
+			
+			removal_cost = -1
+			
+			modifier = {
+				political_power_gain = -0.05
+				justify_war_goal_time = 0.15
+			}
+
+		
+		}
+	
+
+		pacifist = {
+			allowed = { always = no }
+			
+			removal_cost = -1
+			
+			modifier = {
+				political_power_gain = 0.05
+				justify_war_goal_time = -0.05
+			}
+			
+		
+		}
+
+		warmonger = {
+			allowed = { always = no }
+			
+			removal_cost = -1
+			
+			modifier = {
+				political_power_gain = -0.05
+				justify_war_goal_time = 0.05
+			}
+			
+		
+		}
+	
+	}
+}

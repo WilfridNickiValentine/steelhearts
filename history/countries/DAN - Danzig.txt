@@ -1,0 +1,32 @@
+capital = 743
+
+oob = "DAN_1936"
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 28
+		}
+		fascism = {
+			popularity = 78
+		}
+
+	}
+	
+	ruling_party = fascism
+	last_election = "1935.4.7"
+	election_frequency = 24
+	elections_allowed = yes
+
+}
+
+create_country_leader = {
+	name = "Arthur Greiser"
+	desc = ""
+	picture = "Portrait_DAN_Arthur_Greiser.dds"
+	expire = "1965.1.1"
+	ideology = nazism
+	traits = {		
+	}
+}
