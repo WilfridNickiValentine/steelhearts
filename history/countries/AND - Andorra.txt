@@ -13,8 +13,8 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
-		}
+			popularity = 100		
+}
 
 		fascism = {
 			popularity = 0
@@ -23,10 +23,6 @@ set_politics = {
 		communism = {
 			popularity = 0
 			#banned = no #default is no
-		}
-		
-		neutrality = { 
-			popularity = 100
 		}
 	}
 	
@@ -41,28 +37,8 @@ create_country_leader = {
 	desc = ""
 	expire = "1940.1.1"
 	picture = "gfx/leaders/AND/Justi_Guitart.dds"
-	ideology = despotism
+	ideology = absolute 	
 	traits = {
 		#
-	}
-}
-
-create_country_leader = {
-	name = "Ricard Fornesa i Puigdemesa"
-	desc = ""
-	expire = "1943.1.1"
-	picture = "gfx/leaders/AND/Ricard_Fornesa.dds"
-	ideology = despotism
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Ramon Iglésias i Navarri"
-	desc = ""
-	expire = "1969.1.1"
-	picture = "gfx/leaders/AND/Ramon.dds"
-	ideology = despotism
-	traits = {
 	}
 }
