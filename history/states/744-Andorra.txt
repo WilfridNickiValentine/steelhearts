@@ -4,6 +4,7 @@ state={
 	provinces={
 		13206 
 	}
+	manpower = 7865
 	history = {
 		add_core_of = AND
 		owner = AND

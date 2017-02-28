@@ -8,7 +8,7 @@ set_technology = {
 	tech_mountaineers = 1
 }
 
-set_convoys = 0
+set_convoys = 20
 set_politics = {
 
 	parties = {
@@ -36,5 +36,33 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Justí Guitart i Vilardebó"
+	desc = ""
+	expire = "1940.1.1"
+	picture = "gfx/leaders/AND/Justi_Guitart.dds"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
 
+create_country_leader = {
+	name = "Ricard Fornesa i Puigdemesa"
+	desc = ""
+	expire = "1943.1.1"
+	picture = "gfx/leaders/AND/Ricard_Fornesa.dds"
+	ideology = despotism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Ramon Iglésias i Navarri"
+	desc = ""
+	expire = "1969.1.1"
+	picture = "gfx/leaders/AND/Ramon.dds"
+	ideology = despotism
+	traits = {
+	}
 }

@@ -1378,3 +1378,8 @@
  FACTION_NAME_NONALIGNED_4:0 "Confederate $CONTINENT_ADJ$ Nations"
  FACTION_NAME_NONALIGNED_5:0 "The $LEADER_COUNTRY$ Coalition"
  
+ ###############
+ 
+ AND_neutrality:0 "Principality of Andorra"
+ AND_neutrality_DEF:0 "Principality of Andorra"
+ 
