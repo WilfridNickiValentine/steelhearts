@@ -13202,10 +13202,10 @@
 13201;188;96;100;lake;false;lakes;0
 13202;138;235;160;land;true;mountain;2
 13203;211;241;202;land;true;mountain;2
-13204;95;65;145;land;true;unknown;6
-13205;77;47;175;land;false;unknown;0
-13206;254;70;165;land;false;unknown;0
-13207;3;39;172;land;false;unknown;0
-13208;6;43;168;land;false;unknown;0
-13209;234;139;45;land;false;unknown;0
-13210;230;124;96;land;false;unknown;0
+13204;95;65;145;land;true;plain;6
+13205;77;47;175;land;false;mountain;2
+13206;254;70;165;land;false;mountain;0
+13207;3;39;172;land;false;mountain;0
+13208;6;43;168;land;false;mountain;0
+13209;234;139;45;land;false;mountain;0
+13210;230;124;96;land;false;mountain;0
