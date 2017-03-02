@@ -26,18 +26,18 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1934.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Justí Guitart i Vilardebó"
+	name = "Francesc Molné"
 	desc = ""
 	expire = "1940.1.1"
-	picture = "gfx/leaders/AND/Justi_Guitart.dds"
-	ideology = absolute 	
+	picture = "Portrait_AND_Generic_1.dds"
+	ideology = liberalism 	
 	traits = {
 		#
 	}
