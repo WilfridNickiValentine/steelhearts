@@ -1380,6 +1380,7 @@
  
  ###############
  
- AND_neutrality:0 "Principality of Andorra"
- AND_neutrality_DEF:0 "Principality of Andorra"
+AND_democratic:0 "Andorra"
+AND_democratic_DEF:0 "Andorra"
+AND_democratic_ADJ:0 "Andorran"
  
